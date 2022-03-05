@@ -2,7 +2,7 @@
 
 <div align="center" width="50">
 
-<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
+![info](https://github-readme-stats.vercel.app/api?username=Mr-Lobster&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
 </div>
 
