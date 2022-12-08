@@ -27,4 +27,4 @@ Happy Coding! 😊
 
 📫 How to reach me **splendidyouandme@gmail.com**
 
-⭐ From [Mr-Lobster](https://github.com/Mr-Lobster)
+⭐ From [ObscureLin](https://github.com/ObscureLin)
